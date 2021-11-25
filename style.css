@@ -1,0 +1,38 @@
+body{
+text-align: center;
+font-family:cursive;
+color: black;
+    background-color:orange
+
+}
+#line-1{
+color: red
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+#people{
+background-color:orange
+}
+
+#blue{
+color: dodgerblue
+}
+#pink{
+color: purple
+}
+img{
+width: 1000px
+}
+html{
+scroll-behavior: smooth
+}
+
+    
